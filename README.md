@@ -2,7 +2,6 @@
  A App todolist overboosted
 
 ### StackDev
-Vite - ReactTS
-Fastify TS
-PostgreSQL 15
-Docker
+- [React](https://vitejs.dev/)
+- [Fastify](https://www.fastify.io/)
+- [PostgreSQL](https://www.postgresql.org/)
